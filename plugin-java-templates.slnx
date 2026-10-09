@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Runesmith.Java.Templates.Contracts/Runesmith.Java.Templates.Contracts.csproj" />
+    <Project Path="src/Runesmith.Java.Templates/Runesmith.Java.Templates.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Runesmith.Java.Templates.Tests/Runesmith.Java.Templates.Tests.csproj" />
+  </Folder>
+</Solution>
