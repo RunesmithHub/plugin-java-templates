@@ -39,8 +39,8 @@ load it.
 
 ## Documentation
 
-[Java templates](https://runesmithhub.github.io/Runesmith/plugins/java#templates) in the
-[Runesmith documentation](https://runesmithhub.github.io/Runesmith/) describes every template and option.
+[Java templates](https://docs.runesmith.dev/plugins/java#templates) in the
+[Runesmith documentation](https://docs.runesmith.dev/) describes every template and option.
 
 ## License
 
