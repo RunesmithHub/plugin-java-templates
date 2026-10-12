@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "runesmith.java-templates",
   "name": "Java templates",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "New Java applications, libraries, compact source files and multi-module projects, with Maven, Gradle or neither.",
   "authors": [
     "Dylan de Beer"
@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "repository": "https://github.com/RunesmithHub/plugin-java-templates",
   "homepage": "https://docs.runesmith.dev/plugins/java#templates",
-  "runesmithApi": "^0.1.0",
+  "runesmithApi": "^0.2.0",
   "projects": {
     "contracts": "src/Runesmith.Java.Templates.Contracts/Runesmith.Java.Templates.Contracts.csproj",
     "implementation": "src/Runesmith.Java.Templates/Runesmith.Java.Templates.csproj"
